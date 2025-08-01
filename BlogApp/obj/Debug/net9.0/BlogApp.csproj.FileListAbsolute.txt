@@ -1,0 +1,9 @@
+C:\Users\santh\OneDrive\Desktop\c#\Blogapp\BlogApplication\BlogApp\obj\Debug\net9.0\BlogApp.csproj.AssemblyReference.cache
+C:\Users\santh\OneDrive\Desktop\c#\Blogapp\BlogApplication\BlogApp\obj\Debug\net9.0\BlogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santh\OneDrive\Desktop\c#\Blogapp\BlogApplication\BlogApp\obj\Debug\net9.0\BlogApp.AssemblyInfoInputs.cache
+C:\Users\santh\OneDrive\Desktop\c#\Blogapp\BlogApplication\BlogApp\obj\Debug\net9.0\BlogApp.AssemblyInfo.cs
+C:\Users\santh\OneDrive\Desktop\c#\Blogapp\BlogApplication\BlogApp\obj\Debug\net9.0\BlogApp.csproj.CoreCompileInputs.cache
+C:\Users\santh\OneDrive\Desktop\c#\Blogapp\BlogApplication\BlogApp\obj\Debug\net9.0\BlogApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santh\OneDrive\Desktop\c#\Blogapp\BlogApplication\BlogApp\obj\Debug\net9.0\BlogApp.RazorAssemblyInfo.cache
+C:\Users\santh\OneDrive\Desktop\c#\Blogapp\BlogApplication\BlogApp\obj\Debug\net9.0\BlogApp.RazorAssemblyInfo.cs
+C:\Users\santh\OneDrive\Desktop\c#\Blogapp\BlogApplication\BlogApp\obj\Debug\net9.0\BlogApp.sourcelink.json

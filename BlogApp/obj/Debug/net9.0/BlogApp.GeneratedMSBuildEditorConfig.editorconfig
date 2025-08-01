@@ -24,6 +24,30 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/santh/OneDrive/Desktop/c\#/Blogapp/BlogApplication/BlogApp/Views/Home/Posts/EditPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3N0c1xFZGl0UG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santh/OneDrive/Desktop/c\#/Blogapp/BlogApplication/BlogApp/Views/Home/Posts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3N0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santh/OneDrive/Desktop/c\#/Blogapp/BlogApplication/BlogApp/Views/Home/Posts/NewPosthtml.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3N0c1xOZXdQb3N0aHRtbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santh/OneDrive/Desktop/c\#/Blogapp/BlogApplication/BlogApp/Views/Home/Posts/ViewPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3N0c1xWaWV3UG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santh/OneDrive/Desktop/c\#/Blogapp/BlogApplication/BlogApp/Views/Home/Posts/_InsertForms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3N0c1xfSW5zZXJ0Rm9ybXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santh/OneDrive/Desktop/c\#/Blogapp/BlogApplication/BlogApp/Views/Home/Posts/_UpdateForms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3N0c1xfVXBkYXRlRm9ybXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/santh/OneDrive/Desktop/c\#/Blogapp/BlogApplication/BlogApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,4 +1,4 @@
-namespace BlogApp.Models
+﻿namespace BlogApp.Models
 {
     public class ErrorViewModel
     {
@@ -7,3 +7,4 @@ namespace BlogApp.Models
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }
+
